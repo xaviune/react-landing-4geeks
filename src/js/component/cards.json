@@ -1,0 +1,22 @@
+[
+    {
+        "url":"https://picsum.photos/500/325?grayscale?random=1",
+        "tittle": "Title1",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod quam nisi, et rhoncus nibh sagittis eu. Integer sed metus ut nisl laoreet feugiat quis at massa."
+    },
+    {
+        "url":"https://picsum.photos/500/325?grayscale?random=2",
+        "tittle": "Title2",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod quam nisi, et rhoncus nibh sagittis eu. Integer sed metus ut nisl laoreet feugiat quis at massa."
+    },
+    {
+        "url":"https://picsum.photos/500/325?grayscale?random=3",
+        "tittle": "Title3",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod quam nisi, et rhoncus nibh sagittis eu. Integer sed metus ut nisl laoreet feugiat quis at massa."
+    },
+    {
+        "url":"https://picsum.photos/500/325?grayscale?random=4",
+        "tittle": "Title4",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod quam nisi, et rhoncus nibh sagittis eu. Integer sed metus ut nisl laoreet feugiat quis at massa."
+    }
+]
