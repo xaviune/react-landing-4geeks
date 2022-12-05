@@ -7,7 +7,7 @@ function Postcreator(){
         return <Post item = {item} />;
     });
     return (
-        <div className="d-flex">
+        <div className="row">
         {list}
         </div>
     );
